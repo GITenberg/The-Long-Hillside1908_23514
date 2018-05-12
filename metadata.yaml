@@ -1,0 +1,34 @@
+_repo: The-Long-Hillside1908_23514
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Page, Thomas Nelson
+    birthdate: 1853
+    deathdate: 1922
+    gutenberg_agent_id: '184'
+    url: http://www.gutenberg.org/2009/agents/184
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Nelson_Page
+description: ''
+gutenberg_issued: '2007-11-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23514'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Virginia -- Fiction'
+- !lcsh 'African Americans -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Southern States -- Social life and customs -- Fiction'
+- !lcsh 'Short stories'
+title: 'The Long Hillside
+
+  A Christmas Hare-Hunt In Old Virginia
+
+  1908'
+url: http://www.gutenberg.org/ebooks/23514
